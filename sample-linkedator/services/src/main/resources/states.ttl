@@ -1,0 +1,37 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix so: <http://state.example.org/ns#>.
+@prefix data: <http://state.example.org/data#>.
+
+data:AC a so:State; so:name "Acre"; so:code "AC".
+data:AL a so:State; so:name "Alagoas"; so:code "AL".
+data:AP a so:State; so:name "Amapá"; so:code "AP".
+data:AM a so:State; so:name "Amazonas"; so:code "AM".
+data:BA a so:State; so:name "Bahia"; so:code "BA".
+data:CE a so:State; so:name "Ceará"; so:code "CE".
+data:DF a so:State; so:name "Distrito Federal"; so:code "DF".
+data:ES a so:State; so:name "Espírito Santo"; so:code "ES".
+data:GO a so:State; so:name "Goiás"; so:code "GO".
+data:MA a so:State; so:name "Maranhão"; so:code "MA".
+data:MT a so:State; so:name "Mato Grosso"; so:code "MT".
+data:MS a so:State; so:name "Mato Grosso do Sul"; so:code "MS".
+data:MG a so:State; so:name "Minas Gerais"; so:code "MG".
+data:PA a so:State; so:name "Pará"; so:code "PA".
+data:PB a so:State; so:name "Paraíba"; so:code "PB".
+data:PR a so:State; so:name "Paraná"; so:code "PR".
+data:PE a so:State; so:name "Pernambuco"; so:code "PE".
+data:PI a so:State; so:name "Piauí"; so:code "PI".
+data:RJ a so:State; so:name "Rio de Janeiro"; so:code "RJ".
+data:RN a so:State; so:name "Rio Grande do Norte"; so:code "RN".
+data:RS a so:State; so:name "Rio Grande do Sul"; so:code "RS".
+data:RO a so:State; so:name "Rodônia"; so:code "RO".
+data:RR a so:State; so:name "Roraima"; so:code "RR".
+data:SC a so:State; so:name "Santa Catarina"; so:code "SC".
+data:SP a so:State; so:name "São Paulo"; so:code "SP".
+data:SE a so:State; so:name "Sergipe"; so:code "SE".
+data:TO a so:State; so:name "Tocantins"; so:code "TO".
+

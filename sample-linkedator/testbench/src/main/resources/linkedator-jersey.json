@@ -1,0 +1,6 @@
+{
+  "label": "states or cities",
+  "uriLinkedatorApi": "http://localhost:9091/linkedator-api",
+  "verifyLinks": true,
+  "enableLinkedator": true
+}

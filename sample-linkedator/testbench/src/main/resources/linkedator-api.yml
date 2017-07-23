@@ -1,0 +1,6 @@
+server.port: 9091
+config.enableCache: true
+config.cacheMaximumSize: 1000
+config.cacheExpireAfterAccessSeconds: 600
+config.ontolyMaxIndividuals: 1000
+config.enableAlignator: true
